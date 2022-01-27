@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [
+    "express",
+    "api"
+  ],
   "author": "Adarsh S Nair",
   "license": "ISC",
   "dependencies": {
