@@ -1,0 +1,16 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "a basic social media app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Adarsh S Nair",
+  "license": "ISC",
+  "dependencies": {
+    "data-format": "^2.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
